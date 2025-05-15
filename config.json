@@ -1,4 +1,6 @@
 {
+    "packageManager": "pip",
+    "venv": ".venv",
     "EntryPoint": "main.py",
     "inputDir": "./input",
     "outputDir": "./output",

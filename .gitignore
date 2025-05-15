@@ -3,3 +3,5 @@ mkfiles.py
 build*
 **/*.spec
 _*.*
+_*/*
+.venv
