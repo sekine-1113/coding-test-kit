@@ -9,7 +9,7 @@ show_items:
 2: item_1 200 user_1
 purchase: user_1 bought item_2
 show_sales: user_2's total sales 100
-user_1's deposit_hisoty:
+user_1's deposit_history:
 1: 2000
 user_1's sold_items:
 1: item_1 200
